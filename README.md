@@ -58,7 +58,7 @@ The web page that you are building must have the following **minimum requirement
     - Customer testimonials
     - Product descriptions and screenshots
     - Call to action section
-    - Important data
+    - Important data 
     - Frequently asked questions
     - Pricing information
   - Form (for example a Contact Form, or Feedback Form)
